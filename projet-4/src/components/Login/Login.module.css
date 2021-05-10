@@ -34,12 +34,12 @@
 
 .control input:focus {
   outline: none;
-  border-color: #4f005f;
-  background: #f6dbfc;
+  border-color: #005f46;
+  background: #dbfcea;
 }
 
 .control.invalid input {
-  border-color: red;
+  border-color: rgb(174, 0, 0);
   background: #fbdada;
 }
 
@@ -52,5 +52,4 @@
     align-items: center;
     flex-direction: row;
   }
-
 }
