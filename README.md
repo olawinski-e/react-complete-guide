@@ -51,3 +51,7 @@ Project N°2
 ## Section 12
 
 Behind the scenes of React & Optimization with useMemo (153. re-evaluation, 154. unnecessary re-evaluations, 155. useCallback)
+
+## Section 13
+
+Class-based components

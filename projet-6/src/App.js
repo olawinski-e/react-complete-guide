@@ -22,7 +22,7 @@ const App = () => {
 
   const changeTitleHandler = useCallback(() => {
     setListTitle("New Title");
-  });
+  }, []);
 
   const listItems = useMemo(() => [9, 2, 3, 7, 12, 6], []);
 
