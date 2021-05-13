@@ -39,13 +39,10 @@ const cartReducer = (state, action) => {
     );
     const existingItem = state.items[existingCartItemIndex];
     const updatedTotalAmount = state.totalAmount - existingItem.price;
-    console.log(updatedTotalAmount);
     let updatedItems;
     if (existingItem.amount === 1) {
-      console.log(existingItem.amount);
       updatedItems = state.items.filter((item) => item.id !== action.id);
     } else {
-      console.log(existingItem.amount);
       const updatedItem = { ...existingItem, amount: existingItem.amount - 1 };
       updatedItems = [...state.items];
       updatedItems[existingCartItemIndex] = updatedItem;
