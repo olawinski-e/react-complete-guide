@@ -10,7 +10,7 @@ Getting started
 
 ## Section 2
 
-Js refresher
+Js refresher (reference and primitive type)
 
 ## Section 3
 
@@ -47,3 +47,7 @@ Advanced: Handling side effects, using reducers & Context API (113. useEffect cl
 ## Section 11
 
 Project N°2
+
+## Section 12
+
+Behind the scenes of React & Optimization with useMemo (153. re-evaluation, 154. unnecessary re-evaluations, 155. useCallback)
