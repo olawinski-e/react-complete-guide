@@ -55,3 +55,7 @@ Behind the scenes of React & Optimization with useMemo (153. re-evaluation, 154.
 ## Section 13
 
 Class-based components
+
+## Section 14
+
+Http requests
