@@ -59,3 +59,7 @@ Class-based components
 ## Section 14
 
 Http requests
+
+## Section 15
+
+Custom React Hooks
