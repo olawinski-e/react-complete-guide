@@ -62,4 +62,4 @@ Http requests
 
 ## Section 15
 
-Custom React Hooks
+Custom React Hooks (191. Custom Http hook, 192. adjusting logic, 193. using the custom hook in other components)
