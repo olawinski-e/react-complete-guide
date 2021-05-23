@@ -70,4 +70,8 @@ Forms & User input
 
 ## Section 17
 
-PRoject N°3
+Project N°3
+
+## Section 18
+
+Redux
