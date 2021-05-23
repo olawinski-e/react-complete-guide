@@ -75,3 +75,7 @@ Project N°3
 ## Section 18
 
 Redux
+
+## Section 19
+
+Advanced Redux
