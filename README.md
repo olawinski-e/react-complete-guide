@@ -79,3 +79,7 @@ Redux
 ## Section 19
 
 Advanced Redux (250. Practice part 1, 251. Practice part 2, 257. Handling http states, 258. Action creator thunk)
+
+## Section 20
+
+React Router
