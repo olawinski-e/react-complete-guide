@@ -7,7 +7,7 @@ import { LoadingSpinner } from "../components/UI/LoadingSpinner";
 import useHttp from "../hooks/use-http";
 import { getSingleQuote } from "../lib/api";
 
-export const QuoteDetail = () => {
+const QuoteDetail = () => {
   const match = useRouteMatch();
   const params = useParams();
 
@@ -56,3 +56,5 @@ export const QuoteDetail = () => {
     </>
   );
 };
+
+export default QuoteDetail;

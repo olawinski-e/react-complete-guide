@@ -5,7 +5,7 @@ import useHttp from "../hooks/use-http";
 import { getAllQuotes } from "../lib/api";
 import { NoQuotesFound } from "../components/quotes/NoQuotesFound";
 
-export const AllQuotes = () => {
+const AllQuotes = () => {
   const {
     sendRequest,
     status,
@@ -34,3 +34,5 @@ export const AllQuotes = () => {
     </>
   );
 };
+
+export default AllQuotes;
