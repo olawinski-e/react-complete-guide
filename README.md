@@ -1,6 +1,6 @@
 # react-complete-guide
 
-Don't forget to npm install for every project (I deleted node-modules)
+Don't forget to npm install for every project (I deleted node-modules) + careful for NextJs projects
 
 31 sections
 
@@ -91,3 +91,7 @@ Deploy on Firebase
 ## Section 22
 
 Auth
+
+## Section 23
+
+NextJs
