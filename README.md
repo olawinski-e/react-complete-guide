@@ -94,4 +94,4 @@ Auth
 
 ## Section 23
 
-NextJs
+NextJs ( 334. Static site generation, 336. Params for SSG Data fetching, 337. getStaticPaths, 339 -> 347 mongodb stuff)
