@@ -94,4 +94,8 @@ Auth
 
 ## Section 23
 
-NextJs ( 334. Static site generation, 336. Params for SSG Data fetching, 337. getStaticPaths, 339 -> 347 mongodb stuff)
+NextJs ( 334. Static site generation, 336. Params for SSG Data fetching, 337. getStaticPaths, 344. deploy on Vercel)
+
+## Section 24
+
+Animation
