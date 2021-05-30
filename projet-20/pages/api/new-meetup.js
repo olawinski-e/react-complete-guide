@@ -1,12 +1,11 @@
 import { MongoClient } from "mongodb";
-import PASSWORD from "./../config";
 
 async function handler(req, res) {
   if (req.method === "POST") {
     const data = req.body;
 
     const client = await MongoClient.connect(
-      "mongodb+srv://ewnski:vFpPr7YjE5UDV3da@cluster0.u6ian.mongodb.net/meetups?retryWrites=true&w=majority"
+      `mongodb+srv://ewnski:vFpPr7YjE5UDV3da@cluster0.u6ian.mongodb.net/meetups?retryWrites=true&w=majority`
     );
     const db = client.db();
 
